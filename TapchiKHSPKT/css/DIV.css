@@ -1,0 +1,23 @@
+ul {
+list-style: none;
+float:left;
+padding: 0;
+margin: 0;
+text-align: center;
+}
+ul li{
+float: left;
+padding: 0;
+width:150px;
+height:40px;
+background-color: #3A5FCD;
+border-left: 1px solid #191970;
+color: #FFFFFF;
+}
+ul li a{
+text-decoration:none;
+color :#F8F8FF
+}
+ul li a:hover{
+color :#00BFFF
+}
